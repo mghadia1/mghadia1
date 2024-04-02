@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mayamk
+- 👋 Hi, I’m mayank
 - 👀 I’m interested in  game development
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on ...
