@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mayank
-- 👀 I’m interested in  game development
+- 👀 I’m interested in  game development,AI/ML and Quantum computing 
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  mail
