@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="92" viewBox="0 0 1000 92" role="img" aria-label="04 — TOOLKIT">
+  <title>04 — TOOLKIT</title>
+  <defs>
+    <linearGradient id="bg-toolkit-light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e6f4f2"/>
+      <stop offset="100%" stop-color="#f6fbfb"/>
+    </linearGradient>
+    <linearGradient id="sheen-toolkit-light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#14b8a6" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#14b8a6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots-toolkit-light" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#0f766e" fill-opacity="0.14"/>
+    </pattern>
+    <clipPath id="frame-toolkit-light"><rect width="1000" height="92" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame-toolkit-light)">
+    <rect width="1000" height="92" fill="url(#bg-toolkit-light)"/>
+    <rect width="1000" height="92" fill="url(#dots-toolkit-light)"/>
+
+    <rect x="-200" y="0" width="200" height="92" fill="url(#sheen-toolkit-light)">
+      <animate attributeName="x" from="-200" to="1000" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="0" y="0" width="4" height="92" fill="#0d9488"/>
+
+    <text x="30" y="64" fill="#0d9488" fill-opacity="0.18" font-size="44" font-weight="700"
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">04</text>
+
+    <text x="100" y="55" fill="#08282b" font-size="21" font-weight="700" letter-spacing="3.4"
+          font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">TOOLKIT</text>
+
+    <text x="101" y="72" fill="#4b7a80" font-size="11" letter-spacing="0.6"
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">what i actually reach for</text>
+
+    <g>
+      <rect x="846" y="30" width="0" height="6" rx="3" fill="#0d9488" fill-opacity="0.75">
+        <animate attributeName="width" from="0" to="104" dur="1s" begin="0.2s" fill="freeze"/>
+      </rect>
+      <rect x="846" y="43" width="0" height="6" rx="3" fill="#0d9488" fill-opacity="0.55">
+        <animate attributeName="width" from="0" to="74" dur="1s" begin="0.38s" fill="freeze"/>
+      </rect>
+      <rect x="846" y="56" width="0" height="6" rx="3" fill="#0d9488" fill-opacity="0.35">
+        <animate attributeName="width" from="0" to="92" dur="1s" begin="0.56s" fill="freeze"/>
+      </rect>
+    </g>
+
+    <rect x="0.5" y="0.5" width="999" height="91" rx="10" fill="none" stroke="#0d9488" stroke-opacity="0.20"/>
+  </g>
+</svg>

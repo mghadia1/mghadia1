@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="92" viewBox="0 0 1000 92" role="img" aria-label="01 — WHO AM I">
+  <title>01 — WHO AM I</title>
+  <defs>
+    <linearGradient id="bg-whoami-light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e6f4f2"/>
+      <stop offset="100%" stop-color="#f6fbfb"/>
+    </linearGradient>
+    <linearGradient id="sheen-whoami-light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#14b8a6" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#14b8a6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots-whoami-light" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#0f766e" fill-opacity="0.14"/>
+    </pattern>
+    <clipPath id="frame-whoami-light"><rect width="1000" height="92" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame-whoami-light)">
+    <rect width="1000" height="92" fill="url(#bg-whoami-light)"/>
+    <rect width="1000" height="92" fill="url(#dots-whoami-light)"/>
+
+    <rect x="-200" y="0" width="200" height="92" fill="url(#sheen-whoami-light)">
+      <animate attributeName="x" from="-200" to="1000" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="0" y="0" width="4" height="92" fill="#0d9488"/>
+
+    <text x="30" y="64" fill="#0d9488" fill-opacity="0.18" font-size="44" font-weight="700"
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">01</text>
+
+    <text x="100" y="55" fill="#08282b" font-size="21" font-weight="700" letter-spacing="3.4"
+          font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">WHO AM I</text>
+
+    <text x="101" y="72" fill="#4b7a80" font-size="11" letter-spacing="0.6"
+          font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">cs senior @ asu · graduating dec 2027</text>
+
+    <g>
+      <rect x="812" y="20" width="146" height="52" rx="6" fill="#ffffff" stroke="#a7d5cf"/>
+      <circle cx="824" cy="31" r="2.6" fill="#0d9488" fill-opacity="0.75"/>
+      <circle cx="833" cy="31" r="2.6" fill="#0d9488" fill-opacity="0.45"/>
+      <circle cx="842" cy="31" r="2.6" fill="#0d9488" fill-opacity="0.25"/>
+      <rect x="824" y="44" width="62" height="4" rx="2" fill="#0d9488" fill-opacity="0.55"/>
+      <rect x="824" y="56" width="94" height="4" rx="2" fill="#0d9488" fill-opacity="0.3"/>
+      <rect x="892" y="42" width="8" height="8" rx="1" fill="#0d9488">
+        <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <rect x="0.5" y="0.5" width="999" height="91" rx="10" fill="none" stroke="#0d9488" stroke-opacity="0.20"/>
+  </g>
+</svg>

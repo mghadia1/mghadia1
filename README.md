@@ -29,9 +29,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/rule.svg" width="100%" alt="" />
-
-## <samp>01 · WHOAMI</samp>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/section-whoami-dark.svg" /><img src="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/section-whoami-light.svg" alt="01 — WHO AM I" width="100%" /></picture>
 
 ```yaml
 name:        Mayank Ghadia
@@ -52,9 +50,7 @@ motto:       "explain why the result holds, not just the headline number"
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/rule.svg" width="100%" alt="" />
-
-## <samp>02 · SELECTED WORK</samp>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/section-work-dark.svg" /><img src="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/section-work-light.svg" alt="02 — SELECTED WORK" width="100%" /></picture>
 
 <table>
 <tr>
@@ -111,9 +107,7 @@ gradients, loss curves, and the foundations under everything else.
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/rule.svg" width="100%" alt="" />
-
-## <samp>03 · ALL TWELVE PROJECTS</samp>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/section-projects-dark.svg" /><img src="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/section-projects-light.svg" alt="03 — ALL TWELVE PROJECTS" width="100%" /></picture>
 
 <sub>Every repo below is public, and every one that has a CI workflow is green. Descriptions say only what is built and measured today.</sub>
 
@@ -151,9 +145,7 @@ gradients, loss curves, and the foundations under everything else.
 
 <div align="center"><sub>Full write-ups on the <a href="https://mayank-ghadia.vercel.app">portfolio site</a>.</sub></div>
 
-<img src="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/rule.svg" width="100%" alt="" />
-
-## <samp>04 · TOOLKIT</samp>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/section-toolkit-dark.svg" /><img src="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/section-toolkit-light.svg" alt="04 — TOOLKIT" width="100%" /></picture>
 
 <div align="center">
 
@@ -171,9 +163,7 @@ gradients, loss curves, and the foundations under everything else.
 | **ML & data** | PyTorch · scikit-learn · NumPy · pandas · OpenCV |
 | **Tooling** | Docker · Git · GitHub Actions · pytest · Linux |
 
-<img src="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/rule.svg" width="100%" alt="" />
-
-## <samp>05 · ACTIVITY</samp>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/section-activity-dark.svg" /><img src="https://raw.githubusercontent.com/mghadia1/mghadia1/main/assets/section-activity-light.svg" alt="05 — ACTIVITY" width="100%" /></picture>
 
 <div align="center">
 
