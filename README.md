@@ -33,20 +33,47 @@
 
 ```yaml
 name:        Mayank Ghadia
-school:      Arizona State University — B.S. Computer Science (senior)
+school:      Arizona State University
+degree:      B.S. Computer Science (senior)
 graduating:  December 2027
-focus:       [computer vision, retrieval / RAG, applied ML systems]
-coursework:  [Data Structures & Algorithms, Linear Algebra, Probability & Statistics]
+
+focus:
+  - computer vision
+  - retrieval / RAG
+  - applied ML systems
+
+coursework:
+  - Data Structures & Algorithms
+  - Linear Algebra
+  - Probability & Statistics
+
 in_progress: Machine Learning
-building:    end-to-end projects — real data, honest metrics, tests, CI on every repo
-motto:       "explain why the result holds, not just the headline number"
+principle:   "explain why it holds, not just the number"
 ```
 
 <table>
 <tr>
-<td width="33%" align="center"><b>🔭 Right now</b><br/><sub>Deepening ML foundations<br/>+ retrieval / fine-tuning work</sub></td>
-<td width="33%" align="center"><b>🌐 Portfolio</b><br/><sub><a href="https://mayank-ghadia.vercel.app">mayank-ghadia.vercel.app</a></sub></td>
-<td width="33%" align="center"><b>📫 Reach me</b><br/><sub><a href="mailto:mghadia1@asu.edu">mghadia1@asu.edu</a><br/><a href="https://linkedin.com/in/mayank-ghadia">LinkedIn</a></sub></td>
+<td width="34%" valign="top">
+
+**🔭 Right now**
+
+<sub>ML foundations, plus retrieval and fine-tuning projects</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🎯 Looking for**
+
+<sub>ML / computer-vision internships<br/>F-1 student, CPT-eligible</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**📍 Based in**
+
+<sub>Tempe, Arizona</sub>
+
+</td>
 </tr>
 </table>
 
