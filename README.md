@@ -1,8 +1,8 @@
 <!--
   GitHub PROFILE README — styled.
-  To use it: create a public repo named exactly  mghadia1/mghadia1
-  (same as your username), copy in this file AS README.md, and copy the
-  assets/ folder alongside it. Commit. GitHub shows it at github.com/mghadia1
+  LIVE at github.com/mghadia1. To update: copy this file AND assets/ into a
+  clone of mghadia1/mghadia1 and push to main.
+
 
   The hero banner is a hand-authored animated SVG in assets/ — it is served
   from your own repo, so it can never break when a third-party service is down.
