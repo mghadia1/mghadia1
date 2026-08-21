@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Profile - A senior learning this properly</title>
+  <desc id="desc">Section banner introducing Mayank Ghadia's profile.</desc>
+  <rect width="1200" height="150" fill="#f5ead8"/>
+  <path d="M0 1H1200M0 149H1200" stroke="#c89b45"/>
+  <path d="M34 24V126M1166 24V126" stroke="#c89b45" stroke-opacity=".4"/>
+  <text x="54" y="39" fill="#766f67" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="0">01 / PROFILE</text>
+  <text x="54" y="105" fill="#0a0908" font-family="Georgia, 'Times New Roman', serif" font-size="48" letter-spacing="0" textLength="670" lengthAdjust="spacingAndGlyphs">A SENIOR LEARNING THIS</text>
+  <text x="748" y="105" fill="#a51f24" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-style="italic" letter-spacing="0" textLength="300" lengthAdjust="spacingAndGlyphs">PROPERLY.</text>
+  <circle cx="1122" cy="75" r="24" fill="none" stroke="#c89b45" stroke-width="2"/>
+  <path d="M1112 75H1132M1122 65V85" stroke="#a51f24" stroke-width="2"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
+  <title id="title">Projects - I build in order and keep the failures</title>
+  <desc id="desc">Section banner for a deliberate sequence of twelve engineering projects.</desc>
+  <rect width="1200" height="170" fill="#f5ead8"/>
+  <path d="M0 1H1200M0 169H1200" stroke="#0a0908"/>
+  <text x="54" y="35" fill="#766f67" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="0">02 / PROJECTS / TWELVE STAGES</text>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="50" letter-spacing="0">
+    <text x="54" y="103" fill="#0a0908" textLength="420" lengthAdjust="spacingAndGlyphs">I BUILD IN ORDER.</text>
+    <text x="505" y="103" fill="#a51f24" font-style="italic" textLength="580" lengthAdjust="spacingAndGlyphs">I KEEP THE FAILURES.</text>
+  </g>
+  <g transform="translate(56 137)">
+    <path d="M0 0H1088" stroke="#c89b45" stroke-opacity=".45"/>
+    <g fill="#c89b45">
+      <circle cx="0" r="4"/><circle cx="99" r="4"/><circle cx="198" r="4"/><circle cx="297" r="4"/>
+      <circle cx="396" r="4"/><circle cx="495" r="4"/><circle cx="594" r="4"/><circle cx="693" r="4"/>
+      <circle cx="792" r="4"/><circle cx="891" r="4"/><circle cx="990" r="4"/><circle cx="1088" r="4"/>
+    </g>
+  </g>
+</svg>

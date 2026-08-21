@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Let's build something worth measuring - mghadia1@asu.edu</title>
+  <desc id="desc">Contact banner for internship and project opportunities.</desc>
+  <defs>
+    <linearGradient id="red" x1="0" x2="1">
+      <stop offset="0" stop-color="#a51f24"/><stop offset="1" stop-color="#6f1116"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="190" fill="url(#red)"/>
+  <path d="M0 1H1200M0 189H1200" stroke="#c89b45"/>
+  <text x="54" y="35" fill="#e3bd70" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="0">04 / CONTACT / OPEN TO 2027 INTERNSHIPS</text>
+  <text x="54" y="103" fill="#f5ead8" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="0" textLength="550" lengthAdjust="spacingAndGlyphs">LET'S BUILD SOMETHING</text>
+  <text x="630" y="103" fill="#e3bd70" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-style="italic" letter-spacing="0" textLength="430" lengthAdjust="spacingAndGlyphs">WORTH MEASURING.</text>
+  <text x="56" y="145" fill="#f5ead8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="0">mghadia1@asu.edu</text>
+  <g transform="translate(1110 95)" fill="none" stroke="#f5ead8" stroke-width="5" stroke-linecap="square">
+    <path d="M-30 30L30-30M-2-30H30V2"/>
+  </g>
+</svg>

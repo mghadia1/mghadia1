@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title desc">
+  <title id="title">Toolkit - Foundations before frameworks</title>
+  <desc id="desc">Section banner for languages, machine learning tools, and engineering systems.</desc>
+  <rect width="1200" height="160" fill="#0a0908"/>
+  <path d="M0 1H1200M0 159H1200" stroke="#c89b45"/>
+  <text x="54" y="34" fill="#9f978e" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="0">03 / TOOLKIT</text>
+  <text x="54" y="96" fill="#f5ead8" font-family="Georgia, 'Times New Roman', serif" font-size="48" letter-spacing="0" textLength="520" lengthAdjust="spacingAndGlyphs">FOUNDATIONS BEFORE</text>
+  <text x="600" y="96" fill="#c89b45" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-style="italic" letter-spacing="0" textLength="405" lengthAdjust="spacingAndGlyphs">FRAMEWORKS.</text>
+  <g fill="#9f978e" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="0">
+    <text x="56" y="130">PYTHON</text><text x="154" y="130">PYTORCH</text><text x="262" y="130">SCIKIT-LEARN</text>
+    <text x="422" y="130">OPENCV</text><text x="520" y="130">DOCKER</text><text x="611" y="130">PYTEST</text>
+    <text x="698" y="130">GIT</text><text x="758" y="130">LINUX</text><text x="841" y="130">GITHUB ACTIONS</text>
+  </g>
+  <rect x="1080" y="36" width="66" height="66" fill="none" stroke="#a51f24" stroke-width="2" transform="rotate(8 1113 69)"/>
+  <circle cx="1113" cy="69" r="18" fill="none" stroke="#c89b45" stroke-width="2"/>
+  <circle cx="1113" cy="69" r="4" fill="#f5ead8"/>
+</svg>

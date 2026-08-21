@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Mayank Ghadia - Perception, Planning, Honest Evidence</title>
+  <desc id="desc">Portfolio banner for a computer science senior working in medical AI, robotics, and machine learning.</desc>
+  <defs>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#c89b45" stroke-opacity=".08"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#a51f24" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#a51f24" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="390" fill="#0a0908"/>
+  <rect width="1200" height="390" fill="url(#grid)"/>
+  <circle cx="1000" cy="198" r="210" fill="url(#glow)"/>
+  <g fill="none" stroke="#c89b45" transform="translate(1000 198)">
+    <circle r="124" stroke-width="2"/>
+    <circle r="82" stroke-opacity=".5"/>
+    <ellipse rx="152" ry="52" transform="rotate(-18)" stroke-width="3"/>
+    <ellipse rx="142" ry="44" transform="rotate(58)" stroke-opacity=".72"/>
+    <circle r="10" fill="#a51f24" stroke="#f5ead8" stroke-width="3"/>
+    <circle cx="-113" cy="-49" r="7" fill="#f5ead8"/>
+    <circle cx="118" cy="32" r="5" fill="#c89b45"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" letter-spacing="0">
+    <text x="56" y="46" fill="#c89b45" font-size="13">M GHADIA / PORTFOLIO INDEX 001</text>
+    <text x="56" y="82" fill="#9f978e" font-size="14">COMPUTER SCIENCE SENIOR  ·  MEDICAL AI  ·  ROBOTICS  ·  ML</text>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" letter-spacing="0">
+    <text x="54" y="180" fill="#f5ead8" font-size="70">PERCEPTION,</text>
+    <text x="54" y="253" fill="#f5ead8" font-size="70">PLANNING,</text>
+    <text x="54" y="326" fill="#c89b45" font-size="70" font-style="italic">HONEST EVIDENCE.</text>
+  </g>
+  <path d="M56 354H706" stroke="#a51f24" stroke-width="3"/>
+  <text x="56" y="376" fill="#9f978e" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="0">REAL DATA  ·  HELD-OUT EVALUATION  ·  REPRODUCIBLE WORK</text>
+</svg>
